@@ -3,4 +3,4 @@
 Freshman at Bilkent University CompSci
 ---
 
-#  Also, a math enthusiast +-*/
+Also, a math enthusiast +-*/
